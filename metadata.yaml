@@ -1,5 +1,5 @@
 _repo: Hans-Holbein_58400
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Holbein, Hans
@@ -13,12 +13,17 @@ contributor:
     wikipedia:
     - http://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
     - http://en.wikipedia.org/wiki/Hans_Holbein_the_Younger
+covers:
+- cover_type: archival
+  image_path: 58400-h/images/cover.jpg
 creator:
   author:
     agent_name: Chamberlain, Arthur B.
     gutenberg_agent_id: '49932'
     url: http://www.gutenberg.org/2009/agents/49932
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58400#Hans-Holbein
 gutenberg_issued: '2018-12-02'
 gutenberg_type: Text
 identifiers:
